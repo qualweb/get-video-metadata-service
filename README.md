@@ -2,6 +2,10 @@
 
 Obtains the metadata of a given video.
 
+## Requirements
+
+Install ffmepg.
+
 ## How to run
 
 ```shell
